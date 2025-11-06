@@ -4,7 +4,7 @@
 
 ### 💻 Desenvolvedor Full Stack | Transformando Ideias em Realidade
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Web+%26+Mobile+Developer;Focado+em+Inova%C3%A7%C3%A3o;Resolvendo+Problemas+Reais;Sempre+Aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Web+%26+Mobile+Developer;Focado+em+Inova%C3%A7%C3%A3o;Resolvendo+Problemas+Reais;Sempre+Aprendendo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -64,16 +64,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, com foco em criar s
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipetaremba&repo=seu-projeto-1&theme=tokyonight&hide_border=true)](https://github.com/filipetaremba/seu-projeto-1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipetaremba&repo=seu-projeto-2&theme=tokyonight&hide_border=true)](https://github.com/filipetaremba/seu-projeto-2)
-
-</div>
-
----
-
-## 📈 Atividade de Desenvolvimento
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=filipetaremba&theme=tokyo-night&hide_border=true)
 
 </div>
 
