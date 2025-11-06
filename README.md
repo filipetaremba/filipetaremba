@@ -8,7 +8,7 @@
 
 </div>
 
----
+<br>
 
 ## 🚀 Sobre Mim
 
@@ -19,7 +19,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, com foco em criar s
 - 💡 Focado em inovação e experiência do usuário
 - 🎯 Objetivo: Construir produtos que impactem positivamente a vida das pessoas
 
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -37,9 +36,8 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, com foco em criar s
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
 
-## 📊 Estatísticas GitHub
+### 📊 Estatísticas GitHub
 
 <div align="center">
   <table>
@@ -49,49 +47,20 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, com foco em criar s
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipetaremba&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-        <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=filipetaremba&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
----
-
-## 💼 Projetos em Destaque
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipetaremba&repo=seu-projeto-1&theme=tokyonight&hide_border=true)](https://github.com/filipetaremba/seu-projeto-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filipetaremba&repo=seu-projeto-2&theme=tokyonight&hide_border=true)](https://github.com/filipetaremba/seu-projeto-2)
-
-</div>
-
----
 
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filipetaremba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/filipe-mateus-taremba-14a693368)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/filipetaremba)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](filipetaremba0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://taresites.com)
 
 </div>
 
----
-
-<div align="center">
-  
-### 💭 Frase Motivacional
-
-*"A inovação distingue um líder de um seguidor."* - Steve Jobs
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=filipetaremba&color=blueviolet&style=for-the-badge)
-
-⭐️ **Se você gostou dos meus projetos, deixe uma estrela!** ⭐️
-
-</div>
